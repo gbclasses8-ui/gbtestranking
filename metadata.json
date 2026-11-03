@@ -1,0 +1,6 @@
+{
+  "name": "GB STUDY",
+  "description": "GB STUDY - Premium CBT Examination & Mock Test Platform by SARVOTTAM. Batches, Mock Tests, DPP, and Solutions. Telegram: https://t.me/GBFreestudy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

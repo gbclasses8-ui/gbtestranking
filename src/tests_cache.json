@@ -1,0 +1,3306 @@
+[
+  {
+    "id": "50215",
+    "test_name": "Delhi Police MTS - Full Mock Test 1",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50255",
+    "test_name": "Delhi Police MTS - Full Mock Test 2",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50256",
+    "test_name": "Delhi Police MTS - Full Mock Test 3",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50257",
+    "test_name": "Delhi Police MTS - Full Mock Test 4",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50258",
+    "test_name": "Delhi Police MTS - Full Mock Test 5",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50259",
+    "test_name": "Delhi Police MTS - Full Mock Test 6",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50260",
+    "test_name": "Delhi Police MTS - Full Mock Test 7",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50261",
+    "test_name": "Delhi Police MTS - Full Mock Test 8",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50262",
+    "test_name": "Delhi Police MTS - Full Mock Test 9",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50263",
+    "test_name": "Delhi Police MTS - Full Mock Test 10",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50264",
+    "test_name": "Delhi Police MTS - Full Mock Test 11",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50265",
+    "test_name": "Delhi Police MTS - Full Mock Test 12",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50266",
+    "test_name": "Delhi Police MTS - Full Mock Test 13",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50267",
+    "test_name": "Delhi Police MTS - Full Mock Test 14",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50268",
+    "test_name": "Delhi Police MTS - Full Mock Test 15",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50269",
+    "test_name": "Delhi Police MTS - Full Mock Test 16",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50270",
+    "test_name": "Delhi Police MTS - Full Mock Test 17",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50271",
+    "test_name": "Delhi Police MTS - Full Mock Test 18",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50272",
+    "test_name": "Delhi Police MTS - Full Mock Test 19",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50273",
+    "test_name": "Delhi Police MTS - Full Mock Test 20",
+    "package_id": 1022,
+    "package_name": "DP MTS 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50216",
+    "test_name": "Delhi Police Constable - Full Mock Test 1",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50274",
+    "test_name": "Delhi Police Constable - Full Mock Test 2",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50275",
+    "test_name": "Delhi Police Constable - Full Mock Test 3",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50276",
+    "test_name": "Delhi Police Constable - Full Mock Test 4",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50277",
+    "test_name": "Delhi Police Constable - Full Mock Test 5",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50278",
+    "test_name": "Delhi Police Constable - Full Mock Test 6",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50279",
+    "test_name": "Delhi Police Constable - Full Mock Test 7",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50280",
+    "test_name": "Delhi Police Constable - Full Mock Test 8",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50281",
+    "test_name": "Delhi Police Constable - Full Mock Test 9",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50282",
+    "test_name": "Delhi Police Constable - Full Mock Test 10",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50283",
+    "test_name": "Delhi Police Constable - Full Mock Test 11",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50284",
+    "test_name": "Delhi Police Constable - Full Mock Test 12",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50285",
+    "test_name": "Delhi Police Constable - Full Mock Test 13",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50286",
+    "test_name": "Delhi Police Constable - Full Mock Test 14",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50287",
+    "test_name": "Delhi Police Constable - Full Mock Test 15",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50288",
+    "test_name": "Delhi Police Constable - Full Mock Test 16",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50289",
+    "test_name": "Delhi Police Constable - Full Mock Test 17",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50290",
+    "test_name": "Delhi Police Constable - Full Mock Test 18",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50291",
+    "test_name": "Delhi Police Constable - Full Mock Test 19",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "50292",
+    "test_name": "Delhi Police Constable - Full Mock Test 20",
+    "package_id": 74,
+    "package_name": "DP Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46914",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 1",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46915",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 2",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47170",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 3",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47171",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 4",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47172",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 5",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47173",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 6",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47174",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 7",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47175",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 8",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47176",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 9",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47177",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 10",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47178",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 11",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47179",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 12",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47180",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 13",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47181",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 14",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47182",
+    "test_name": "RRB NTPC CBT1 (Graduate) - Full Test 15",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47183",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 1",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47184",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 2",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47185",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 3",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47186",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 4",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47187",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 5",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47188",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 6",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47189",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 7",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47190",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 8",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47191",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 9",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47192",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 10",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47193",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 11",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3323093",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 12",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3323094",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 13",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3323095",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 14",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3323096",
+    "test_name": "RRB NTPC CBT1 (Undergraduate) - Full Test 15",
+    "package_id": 42,
+    "package_name": "RRB NTPC 2025-26",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331185",
+    "test_name": "IB Security Assistant 2025 - Full Test 1",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331186",
+    "test_name": "IB Security Assistant 2025 - Full Test 2",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331187",
+    "test_name": "IB Security Assistant 2025 - Full Test 3",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331188",
+    "test_name": "IB Security Assistant 2025 - Full Test 4",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331189",
+    "test_name": "IB Security Assistant 2025 - Full Test 5",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331190",
+    "test_name": "IB Security Assistant 2025 - Full Test 6",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331191",
+    "test_name": "IB Security Assistant 2025 - Full Test 7",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331192",
+    "test_name": "IB Security Assistant 2025 - Full Test 8",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331193",
+    "test_name": "IB Security Assistant 2025 - Full Test 9",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331194",
+    "test_name": "IB Security Assistant 2025 - Full Test 10",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331195",
+    "test_name": "IB Security Assistant 2025 - Full Test 11",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331196",
+    "test_name": "IB Security Assistant 2025 - Full Test 12",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331197",
+    "test_name": "IB Security Assistant 2025 - Full Test 13",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331198",
+    "test_name": "IB Security Assistant 2025 - Full Test 14",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331199",
+    "test_name": "IB Security Assistant 2025 - Full Test 15",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331200",
+    "test_name": "IB Security Assistant 2025 - Full Test 16",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331201",
+    "test_name": "IB Security Assistant 2025 - Full Test 17",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331202",
+    "test_name": "IB Security Assistant 2025 - Full Test 18",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331203",
+    "test_name": "IB Security Assistant 2025 - Full Test 19",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331204",
+    "test_name": "IB Security Assistant 2025 - Full Test 20",
+    "package_id": 1038,
+    "package_name": "IB Security Assistant 2025 - Tier I",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46947",
+    "test_name": "RRB JE - Free Mock Test",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46948",
+    "test_name": "RRB JE - Full Test 1",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47256",
+    "test_name": "RRB JE - Full Test 2",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47257",
+    "test_name": "RRB JE - Full Test 3",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47258",
+    "test_name": "RRB JE - Full Test 4",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47259",
+    "test_name": "RRB JE - Full Test 5",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47260",
+    "test_name": "RRB JE - Full Test 6",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47261",
+    "test_name": "RRB JE - Full Test 7",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47262",
+    "test_name": "RRB JE - Full Test 8",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47263",
+    "test_name": "RRB JE - Full Test 9",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47264",
+    "test_name": "RRB JE - Full Test 10",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47265",
+    "test_name": "RRB JE - Full Test 11",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47266",
+    "test_name": "RRB JE - Full Test 12",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47267",
+    "test_name": "RRB JE - Full Test 13",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47268",
+    "test_name": "RRB JE - Full Test 14",
+    "package_id": 919,
+    "package_name": "RRB JE",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320040",
+    "test_name": "MP Police Constable 2025 - Full Test 1",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320041",
+    "test_name": "MP Police Constable 2025 - Full Test 2",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320042",
+    "test_name": "MP Police Constable 2025 - Full Test 3",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320043",
+    "test_name": "MP Police Constable 2025 - Full Test 4",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320044",
+    "test_name": "MP Police Constable 2025 - Full Test 5",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320045",
+    "test_name": "MP Police Constable 2025 - Full Test 6",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320046",
+    "test_name": "MP Police Constable 2025 - Full Test 7",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320047",
+    "test_name": "MP Police Constable 2025 - Full Test 8",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320048",
+    "test_name": "MP Police Constable 2025 - Full Test 9",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320049",
+    "test_name": "MP Police Constable 2025 - Full Test 10",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320050",
+    "test_name": "MP Police Constable 2025 - Full Test 11",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320051",
+    "test_name": "MP Police Constable 2025 - Full Test 12",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320052",
+    "test_name": "MP Police Constable 2025 - Full Test 13",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320053",
+    "test_name": "MP Police Constable 2025 - Full Test 14",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320054",
+    "test_name": "MP Police Constable 2025 - Full Test 15",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320055",
+    "test_name": "MP Police Constable 2025 - Full Test 16",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320056",
+    "test_name": "MP Police Constable 2025 - Full Test 17",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320057",
+    "test_name": "MP Police Constable 2025 - Full Test 18",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320058",
+    "test_name": "MP Police Constable 2025 - Full Test 19",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320059",
+    "test_name": "MP Police Constable 2025 - Full Test 20",
+    "package_id": 1048,
+    "package_name": "MP Police Constable 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322244",
+    "test_name": "UP Home Guard - Free Test",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322246",
+    "test_name": "UP Home Guard - Full Test 1",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322247",
+    "test_name": "UP Home Guard - Full Test 2",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322248",
+    "test_name": "UP Home Guard - Full Test 3",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322249",
+    "test_name": "UP Home Guard - Full Test 4",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322250",
+    "test_name": "UP Home Guard - Full Test 5",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322251",
+    "test_name": "UP Home Guard - Full Test 6",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322252",
+    "test_name": "UP Home Guard - Full Test 7",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322253",
+    "test_name": "UP Home Guard - Full Test 8",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322254",
+    "test_name": "UP Home Guard - Full Test 9",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322255",
+    "test_name": "UP Home Guard - Full Test 10",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322256",
+    "test_name": "UP Home Guard - Full Test 11",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322257",
+    "test_name": "UP Home Guard - Full Test 12",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322258",
+    "test_name": "UP Home Guard - Full Test 13",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322259",
+    "test_name": "UP Home Guard - Full Test 14",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322260",
+    "test_name": "UP Home Guard - Full Test 15",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322261",
+    "test_name": "UP Home Guard - Full Test 16",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322262",
+    "test_name": "UP Home Guard - Full Test 17",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322263",
+    "test_name": "UP Home Guard - Full Test 18",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322264",
+    "test_name": "UP Home Guard - Full Test 19",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322265",
+    "test_name": "UP Home Guard - Full Test 20",
+    "package_id": 1051,
+    "package_name": "UP Home Guard 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48673",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 1",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48674",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 2",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48675",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 3",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48676",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 4",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48677",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 5",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48678",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 6",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48679",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 7",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48680",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 8",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48681",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 9",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48682",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 10",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48683",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 11",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48684",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 12",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48685",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 13",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48686",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 14",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48687",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 15",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48688",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 16",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48689",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 17",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48690",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 18",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48691",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 19",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48692",
+    "test_name": "SBI Clerk 2025 Prelims - Full Mock Test 20",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331435",
+    "test_name": "SBI Clerk Prelims - Free Mock Test",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331436",
+    "test_name": "SBI Clerk Prelims - Full Test 1",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331437",
+    "test_name": "SBI Clerk Prelims - Full Test 2",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331438",
+    "test_name": "SBI Clerk Prelims - Full Test 3",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331439",
+    "test_name": "SBI Clerk Prelims - Full Test 4",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331440",
+    "test_name": "SBI Clerk Prelims - Full Test 5",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331441",
+    "test_name": "SBI Clerk Prelims - Full Test 6",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331442",
+    "test_name": "SBI Clerk Prelims - Full Test 7",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331443",
+    "test_name": "SBI Clerk Prelims - Full Test 8",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331444",
+    "test_name": "SBI Clerk Prelims - Full Test 9",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331445",
+    "test_name": "SBI Clerk Prelims - Full Test 10",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331446",
+    "test_name": "SBI Clerk Prelims - Full Test 11",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331447",
+    "test_name": "SBI Clerk Prelims - Full Test 12",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331448",
+    "test_name": "SBI Clerk Prelims - Full Test 13",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331449",
+    "test_name": "SBI Clerk Prelims - Full Test 14",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48698",
+    "test_name": "SBI Clerk Pre - Reasoning Sectional Test 1",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48699",
+    "test_name": "SBI Clerk Pre - Reasoning Sectional Test 2",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48700",
+    "test_name": "SBI Clerk Pre - Reasoning Sectional Test 3",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48701",
+    "test_name": "SBI Clerk Pre - Reasoning Sectional Test 4",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48702",
+    "test_name": "SBI Clerk Pre - Reasoning Sectional Test 5",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48703",
+    "test_name": "SBI Clerk Pre - Quant Sectional Test 1",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48704",
+    "test_name": "SBI Clerk Pre - Quant Sectional Test 2",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48706",
+    "test_name": "SBI Clerk Pre - Quant Sectional Test 4",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48705",
+    "test_name": "SBI Clerk Pre - Quant Sectional Test 3",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48707",
+    "test_name": "SBI Clerk Pre - Quant Sectional Test 5",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48708",
+    "test_name": "SBI Clerk Pre - English Sectional Test 1",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48709",
+    "test_name": "SBI Clerk Pre - English Sectional Test 2",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48710",
+    "test_name": "SBI Clerk Pre - English Sectional Test 3",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48711",
+    "test_name": "SBI Clerk Pre - English Sectional Test 4",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "48712",
+    "test_name": "SBI Clerk Pre - English Sectional Test 5",
+    "package_id": 24,
+    "package_name": "SBI JA (Clerk) 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46937",
+    "test_name": "RRB Technician Grade 3 - Free Test",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46938",
+    "test_name": "RRB Technician Grade 3 - Full Test 1",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47407",
+    "test_name": "RRB Technician Grade 3 - Full Test 2",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47408",
+    "test_name": "RRB Technician Grade 3 - Full Test 3",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47409",
+    "test_name": "RRB Technician Grade 3 - Full Test 4",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47410",
+    "test_name": "RRB Technician Grade 3 - Full Test 5",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47411",
+    "test_name": "RRB Technician Grade 3 - Full Test 6",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47412",
+    "test_name": "RRB Technician Grade 3 - Full Test 7",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47413",
+    "test_name": "RRB Technician Grade 3 - Full Test 8",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47414",
+    "test_name": "RRB Technician Grade 3 - Full Test 9",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47415",
+    "test_name": "RRB Technician Grade 3 - Full Test 10",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47416",
+    "test_name": "RRB Technician Grade 3 - Full Test 11",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47417",
+    "test_name": "RRB Technician Grade 3 - Full Test 12",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47418",
+    "test_name": "RRB Technician Grade 3 - Full Test 13",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "47419",
+    "test_name": "RRB Technician Grade 3 - Full Test 14",
+    "package_id": 920,
+    "package_name": "RRB Technician (Grade I and Grade III)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "331000",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 1",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331001",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 1",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331002",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 1",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331003",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 2",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331004",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 2",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331005",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 2",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331006",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 3",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331007",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 3",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331008",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 3",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331009",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 4",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331010",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 4",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331011",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 4",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331012",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 5",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331013",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 5",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331014",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 5",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331015",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 6",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331016",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 6",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331017",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 6",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331018",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 7",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331019",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 7",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331020",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 7",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331021",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 8",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331022",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 8",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331023",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 8",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331024",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 9",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331025",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 9",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331026",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 9",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331027",
+    "test_name": "UPSC CDS 2026 (Elementary Mathematics) - Full Test 10",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331028",
+    "test_name": "UPSC CDS 2026 (General Awareness) - Full Test 10",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "331029",
+    "test_name": "UPSC CDS 2026 (English) - Full Test 10",
+    "package_id": 1043,
+    "package_name": "UPSC CDS Examination - 2026",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330873",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 1",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330874",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 2",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330875",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 3",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330876",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 4",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330877",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 5",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330878",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 6",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330879",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 7",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330880",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 8",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330881",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 9",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330882",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 10",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330883",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 11",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330884",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 12",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330885",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 13",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330886",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 14",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330887",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 15",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330888",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 16",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330889",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 17",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330890",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 18",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330891",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 19",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "330892",
+    "test_name": "IB ACIO Grade II 2025 - Full Test 20",
+    "package_id": 1037,
+    "package_name": "IB ACIO Grade II - 2025",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27090",
+    "test_name": "RPF SI - Free Test",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27091",
+    "test_name": "RPF SI - Full Test 1",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27092",
+    "test_name": "RPF SI - Full Test 2",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27093",
+    "test_name": "RPF SI - Full Test 3",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27094",
+    "test_name": "RPF SI - Full Test 4",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27095",
+    "test_name": "RPF SI - Full Test 5",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27096",
+    "test_name": "RPF SI - Full Test 6",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27097",
+    "test_name": "RPF SI - Full Test 7",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27098",
+    "test_name": "RPF SI - Full Test 8",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27099",
+    "test_name": "RPF SI - Full Test 9",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27100",
+    "test_name": "RPF SI - Full Test 10",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27101",
+    "test_name": "RPF SI - Full Test 11",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27102",
+    "test_name": "RPF SI - Full Test 12",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27103",
+    "test_name": "RPF SI - Full Test 13",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27104",
+    "test_name": "RPF SI - Full Test 14",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27105",
+    "test_name": "RPF SI - Full Test 15",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27106",
+    "test_name": "RPF SI - Full Test 16",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27107",
+    "test_name": "RPF SI - Full Test 17",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27108",
+    "test_name": "RPF SI - Full Test 18",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "27109",
+    "test_name": "RPF SI - Full Test 19",
+    "package_id": 799,
+    "package_name": "RPF SI 2024",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320437",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 1",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320438",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 2",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320439",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 3",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320440",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 4",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320441",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 5",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320442",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 6",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320443",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 7",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320444",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 8",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320445",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 9",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320446",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 10",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320447",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 11",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320448",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 12",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320449",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 13",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320450",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 14",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320451",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 15",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320452",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 16",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320453",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 17",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320454",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 18",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320455",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 19",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320456",
+    "test_name": "SSC CGL Tier II 2025 - Full Mock Test 20",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46401",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 1",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46402",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 2",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46403",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 3",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46404",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 4",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46405",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 5",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46406",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 6",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46407",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 7",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46408",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 8",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46409",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 9",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46410",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 10",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46411",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 11",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46412",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 12",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46413",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 13",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46414",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 14",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46415",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 15",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46416",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 16",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46417",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 17",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46418",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 18",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46419",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 19",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46400",
+    "test_name": "SSC CGL Tier II 2024 - Full Mock Test 20",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320457",
+    "test_name": "Maths and Reasoning  - Sectional Test - 1",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320458",
+    "test_name": "Maths and Reasoning  - Sectional Test - 2",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320467",
+    "test_name": "English and GA - Sectional Test - 1",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320468",
+    "test_name": "English and GA - Sectional Test - 2",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320477",
+    "test_name": "Computer - Sectional Test - 1",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320459",
+    "test_name": "Maths and Reasoning  - Sectional Test - 3",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320460",
+    "test_name": "Maths and Reasoning  - Sectional Test - 4",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320469",
+    "test_name": "English and GA - Sectional Test - 3",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320478",
+    "test_name": "Computer - Sectional Test - 2",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320470",
+    "test_name": "English and GA - Sectional Test - 4",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320479",
+    "test_name": "Computer - Sectional Test - 3",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320461",
+    "test_name": "Maths and Reasoning  - Sectional Test - 5",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320480",
+    "test_name": "Computer - Sectional Test - 4",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320471",
+    "test_name": "English and GA - Sectional Test - 5",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320462",
+    "test_name": "Maths and Reasoning  - Sectional Test - 6",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320481",
+    "test_name": "Computer - Sectional Test - 5",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320472",
+    "test_name": "English and GA - Sectional Test - 6",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320463",
+    "test_name": "Maths and Reasoning  - Sectional Test - 7",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320473",
+    "test_name": "English and GA - Sectional Test - 7",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320464",
+    "test_name": "Maths and Reasoning  - Sectional Test - 8",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320482",
+    "test_name": "Computer - Sectional Test - 6",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320474",
+    "test_name": "English and GA - Sectional Test - 8",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320465",
+    "test_name": "Maths and Reasoning  - Sectional Test - 9",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320483",
+    "test_name": "Computer - Sectional Test - 7",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320466",
+    "test_name": "Maths and Reasoning  - Sectional Test - 10",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320475",
+    "test_name": "English and GA - Sectional Test - 9",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320484",
+    "test_name": "Computer - Sectional Test - 8",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320485",
+    "test_name": "Computer - Sectional Test - 9",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320476",
+    "test_name": "English and GA - Sectional Test - 10",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3320486",
+    "test_name": "Computer - Sectional Test - 10",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47755",
+    "test_name": "Maths and Reasoning  - Sectional Test - 11",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47756",
+    "test_name": "Maths and Reasoning  - Sectional Test - 12",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47757",
+    "test_name": "Maths and Reasoning  - Sectional Test - 13",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47758",
+    "test_name": "Maths and Reasoning  - Sectional Test - 14",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47759",
+    "test_name": "Maths and Reasoning  - Sectional Test - 15",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47760",
+    "test_name": "Maths and Reasoning  - Sectional Test - 16",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47761",
+    "test_name": "Maths and Reasoning  - Sectional Test - 17",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47762",
+    "test_name": "Maths and Reasoning  - Sectional Test - 18",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47763",
+    "test_name": "Maths and Reasoning  - Sectional Test - 19",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47764",
+    "test_name": "Maths and Reasoning  - Sectional Test - 20",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47765",
+    "test_name": "Maths and Reasoning  - Sectional Test - 21",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47766",
+    "test_name": "Maths and Reasoning  - Sectional Test - 22",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47767",
+    "test_name": "Maths and Reasoning  - Sectional Test - 23",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47768",
+    "test_name": "Maths and Reasoning  - Sectional Test - 24",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47769",
+    "test_name": "Maths and Reasoning  - Sectional Test - 25",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47770",
+    "test_name": "Maths and Reasoning  - Sectional Test - 26",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47771",
+    "test_name": "Maths and Reasoning  - Sectional Test - 27",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47772",
+    "test_name": "Maths and Reasoning  - Sectional Test - 28",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47773",
+    "test_name": "Maths and Reasoning  - Sectional Test - 29",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "47774",
+    "test_name": "Maths and Reasoning  - Sectional Test - 30",
+    "package_id": 973,
+    "package_name": "SSC CGL 2026 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46889",
+    "test_name": "SSC CPO Tier I 2025 - Free Mock Test",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46890",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 1",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46958",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 2",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46959",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 3",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46960",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 4",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46961",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 5",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46962",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 6",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46963",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 7",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46964",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 8",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46965",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 9",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46966",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 10",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46967",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 11",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46968",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 12",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46969",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 13",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46970",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 14",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46971",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 15",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46972",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 16",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46973",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 17",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46974",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 18",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46975",
+    "test_name": "SSC CPO Tier I 2025 - Full Test 19",
+    "package_id": 62,
+    "package_name": "SSC CPO 2026 - Tier 1",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328866",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 1",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328867",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 2",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328868",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 3",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328869",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 4",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328870",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 5",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328871",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 6",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328872",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 7",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328873",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 8",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328874",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 9",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328875",
+    "test_name": "SSC Selection Post - Matriculation Level - Full Test 10",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328865",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 1",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328881",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 2",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328882",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 3",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328883",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 4",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328884",
+    "test_name": "SSC Selection Post - Higher Secondary Level -...",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328885",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 6",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328886",
+    "test_name": "SSC Selection Post - Higher Secondary Level -...",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328887",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 8",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328888",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 9",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328889",
+    "test_name": "SSC Selection Post - Higher Secondary Level - Full Test 10",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "328864",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 1",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328895",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 2",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328896",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 3",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328897",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 4",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328898",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 5",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328899",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 6",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328900",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 7",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328901",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 8",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328902",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 9",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "328903",
+    "test_name": "SSC Selection Post - Graduation Level - Full Test 10",
+    "package_id": 1030,
+    "package_name": "SSC Selection Post 2026 - (Phase 14)",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "3322372",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 1",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322373",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 2",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322374",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 3",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322375",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 4",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322376",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 5",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322377",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 6",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322378",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 7",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322379",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 8",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322380",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 9",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322381",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 10",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322382",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 11",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322383",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 12",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322384",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 13",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322385",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 14",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322386",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 15",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322387",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 16",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322388",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 17",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322389",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 18",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322390",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 19",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "3322391",
+    "test_name": "SSC CPO Tier II 2025 - Full Mock Test 20",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46887",
+    "test_name": "SSC CPO Tier II - Free Mock Test",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46888",
+    "test_name": "SSC CPO Tier II - Full Test 1",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46950",
+    "test_name": "SSC CPO Tier II - Full Test 2",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46951",
+    "test_name": "SSC CPO Tier II - Full Test 3",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46952",
+    "test_name": "SSC CPO Tier II - Full Test 4",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46953",
+    "test_name": "SSC CPO Tier II - Full Test 5",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46954",
+    "test_name": "SSC CPO Tier II - Full Test 6",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46955",
+    "test_name": "SSC CPO Tier II - Full Test 7",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46956",
+    "test_name": "SSC CPO Tier II - Full Test 8",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46957",
+    "test_name": "SSC CPO Tier II - Full Test 9",
+    "package_id": 978,
+    "package_name": "SSC CPO 2025 - Tier 2",
+    "category_type": "Free Mock"
+  },
+  {
+    "id": "46435",
+    "test_name": "SSC CHSL Tier 1 2025 - Free Test",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46436",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 1",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46509",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 2",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46510",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 3",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46511",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 4",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46512",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 5",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46513",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 6",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46514",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 7",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46515",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 8",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46516",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 9",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46517",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 10",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46518",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 11",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46519",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 12",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46520",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 13",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46521",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 14",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46522",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 15",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46523",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 16",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46524",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 17",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46525",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 18",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46526",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 19",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  },
+  {
+    "id": "46527",
+    "test_name": "SSC CHSL Tier 1 2025 - Full Test 20",
+    "package_id": 81,
+    "package_name": "SSC CHSL 2026 - Tier 1",
+    "category_type": "Test Series"
+  }
+]
