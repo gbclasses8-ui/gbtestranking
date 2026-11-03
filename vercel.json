@@ -1,0 +1,17 @@
+{
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/api/getAllTests",
+      "destination": "/api/getAllTests"
+    },
+    {
+      "source": "/api/getTest",
+      "destination": "/api/getTest"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
